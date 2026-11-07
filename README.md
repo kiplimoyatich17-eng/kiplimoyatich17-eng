@@ -1,4 +1,4 @@
-
+![Kiplimo Mark - Developer Banner](profile-banner.png)
 # Hi, I'm Kiplimo Mark 👋
 
 ### Mathematics & Computer Studies Student | Aspiring Software Developer | EdTech Enthusiast
