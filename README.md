@@ -1,16 +1,57 @@
-## Hi there 👋
 
-<!--
-**kiplimoyatich17-eng/kiplimoyatich17-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kiplimo Mark 👋
 
-Here are some ideas to get you started:
+### Mathematics & Computer Studies Student | Aspiring Software Developer | EdTech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a university student passionate about technology, mathematics, programming and the ways digital innovation can improve education and everyday life.
+
+I enjoy learning by building practical projects, solving problems and exploring new technologies.
+
+## 🚀 About Me
+
+- 🎓 Studying BSc Education Science (Mathematics & Computer Studies).
+- 💻 Learning web development and programming.
+- 🧮 Building educational technology projects.
+- 🤖 Interested in Artificial Intelligence and digital innovation.
+- 📚 Exploring mathematics, computer science and Linux.
+- 🌍 Interested in using technology to solve real-world African challenges.
+
+## 🛠️ Technologies & Tools
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- GitHub Pages
+
+## 📌 Featured Project
+
+### QuickMath 2.1
+
+An interactive arithmetic learning application featuring:
+
+- Addition, subtraction, multiplication and division.
+- Three difficulty levels.
+- Randomised questions.
+- Score, streak and accuracy tracking.
+- Mobile-friendly interface.
+
+🔗 [Explore QuickMath](https://kiplimoyatich17-eng.github.io/QuickMath-2.0/)
+
+🔗 [View Source Code](https://github.com/kiplimoyatich17-eng/QuickMath-2.0)
+
+## 🎯 Current Learning Goals
+
+- Strengthen my JavaScript and programming skills.
+- Build useful educational applications.
+- Develop a strong technical portfolio.
+- Explore AI, software engineering and Linux.
+- Turn ideas into practical digital products.
+
+## 📫 Connect With Me
+
+- GitHub: [@kiplimoyatich17-eng](https://github.com/kiplimoyatich17-eng)
+
+---
+
+*Learning, building and improving one project at a time.*
